@@ -240,9 +240,7 @@ class CartPage extends StatelessWidget {
               ),
             ),
             ElevatedButton(
-              onPressed: () {
-                // Your checkout logic here
-              },
+              onPressed: () {},
               child: Text(
                 'Checkout',
                 style: TextStyle(
